@@ -1,0 +1,37 @@
+{
+    "app_id": "f4b1c59f0bc2f289b1968beaa0eb01",
+    "collection_id": "fcb1c59f0bc4fae88fd7d4bee947",
+    "items": [],
+    "name": "Vending_Machine_Inventory",
+    "permissions": {
+        "Equipment": 5,
+        "Maintenance": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "vending_machine_id",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "slot",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "product_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "quantity",
+            "ColumnType": "int",
+            "PK": false
+        }
+    ]
+}
