@@ -1,0 +1,20 @@
+{
+    "author": {
+        "email": "rreinold@clearblade.com"
+    },
+    "clouds": [],
+    "description": "",
+    "domains": [],
+    "gateways": [],
+    "image_url": "",
+    "keywords": [
+        "tag1"
+    ],
+    "license": "",
+    "name": "CB_Vending_System",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": ""
+}
