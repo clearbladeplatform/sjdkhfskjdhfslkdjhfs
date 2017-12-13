@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "CB_Vending_System",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "f4b1c59f0bc2f289b1968beaa0eb01",
+    "system_secret": "F4B1C59F0BD2F99FC9D5FDBFE7D501"
+}
