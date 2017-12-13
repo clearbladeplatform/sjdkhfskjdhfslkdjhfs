@@ -1,0 +1,24 @@
+{
+    "Description": "",
+    "ID": "f8b1c59f0bcc9fe0e5e992eff85c",
+    "Name": "Purchaser",
+    "Permissions": {
+        "CodeServices": [],
+        "Collections": [],
+        "DevicesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 3
+        },
+        "Portals": [],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": null,
+        "Topics": [],
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
